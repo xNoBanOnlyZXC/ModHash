@@ -1,9 +1,14 @@
-![mod](https://github.com/NoBanOnlyZXC/ModHash/assets/155289158/a1c81646-688d-410d-9d02-adef32ec1094)
-# ModHash
-ModHash это ядро для кастомных подключаемых модулей, написан на `pyrogram`.
+<div align="center">
+    <h1>ModHash</h1>
+    Small OS for ESP-like microcontroller.
+    <p>ModHash это ядро для кастомных подключаемых модулей, написан на `pyrogram`.</p>
+    <img alt="code size" src="https://img.shields.io/github/languages/code-size/xnobanonlyzxc/ModHash?style=for-the-badge">
+    <img alt="repo stars" src="https://img.shields.io/github/stars/xnobanonlyzxc/ModHash?style=for-the-badge">
+    <img alt="repo stars" src="https://img.shields.io/github/commit-activity/w/xnobanonlyzxc/ModHash?style=for-the-badge">
+</div>
 
 # Установка
-1. [Скачать](https://github.com/NoBanOnlyZXC/ModHash/releases/latest) архив `ModHash` и `Python` (при первой установке)
+1. [Скачать](https://github.com/xNoBanOnlyZXC/ModHash/releases/latest) архив `ModHash` и `Python` (при первой установке)
 2. Установить `Python 3.11.7` (есть в разделе релизов), обязательно галочку на `PATH`
 3. Распаковать `ModHash` в любое место
 4. Запустить `install_reqs.bat`
