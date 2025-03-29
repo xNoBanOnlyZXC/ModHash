@@ -1,6 +1,5 @@
 <div align="center">
     <h1>ModHash</h1>
-    Small OS for ESP-like microcontroller.
     <p>ModHash это ядро для кастомных подключаемых модулей, написан на `pyrogram`.</p>
     <img alt="code size" src="https://img.shields.io/github/languages/code-size/xnobanonlyzxc/ModHash?style=for-the-badge">
     <img alt="repo stars" src="https://img.shields.io/github/stars/xnobanonlyzxc/ModHash?style=for-the-badge">
